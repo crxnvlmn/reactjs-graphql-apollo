@@ -1,5 +1,5 @@
 # react-graphql-apollo
-This is a learning material implementing GraphQL + Apollo in ReactJS and building a [Hacker News clone](https://news.ycombinator.com/).
+This is a learning material implementing GraphQL + Apollo in ReactJS and building a fullstack [Hacker News](https://news.ycombinator.com/) clone.
 
 Learning Resource: https://howtographql.com <br/>
 Watch me learn it live: https://youtu.be/h3LmThMuQBs <br/>
